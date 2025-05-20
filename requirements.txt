@@ -1,0 +1,7 @@
+einops==0.8.1
+numpy==2.2.6
+opencv_python==4.11.0.86
+Pillow==11.2.1
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+ultralytics_thop==2.0.14
