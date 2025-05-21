@@ -3,8 +3,8 @@
 ## 1. Create Environment
 * create conda environment
 ```
-conda create -n LDFusion python=3.10
-conda activate LDFusion
+conda create -n LDLite python=3.10
+conda activate LDLite
 ```
 
 * Install Dependencies 
